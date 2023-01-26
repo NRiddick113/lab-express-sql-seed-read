@@ -8,14 +8,14 @@ INSERT INTO songs (name, artist, album, time, is_favorite) VALUES
 ('21 Questions', '50 Cent', 'Get Rich Or Die Trying', '3:44', false);
 
 
-INSERT INTO reviews (bookmark_id, reviewer, title, content, rating )
+INSERT INTO reviews (song_id, reviewer, genre, content, rating )
 VALUES
-('1', 'Evan', 'My Favorite', 'This website crushes it when it comes to awesome explanations', 3),
-('2', 'Evan', 'My Favorite', 'This website crushes it when it comes to inspiring me', 3),
-('3', 'Evan', 'My Least Favorite', 'This website crushes it when it comes to destroying my patience', 5),
-('2', 'Juliana', 'I Love Going Here', 'I finally learned how to properly fold a fitted sheet', 5),
-('2', 'David', 'Cool Site', 'But I got way into adding decorative pillows everywhere', 1),
-('2', 'Mr. Mingo', 'So Helpful', 'I got some awesome recommendations for a ceiling fan and some spoons', 3),
-('2', 'Alison', 'A lifesaver!','Helped me get my stove cleaner than I ever imagiend possible!', 4),
-('3', 'Hannah', 'Insert Confetti Emoji Here', 'I survived 6 hours at the DMV!', 4),
-('3', 'Gabi', 'My Friend Hannah', 'Gets a discount if I leave a positive review, so here it is', 5);
+('1', 'Evan', 'hip hop', 'This song makes me wanna dance', 3),
+('1', 'Evan', 'hip hop', 'This is party music', 3),
+('3', 'Evan', 'R&B', 'i love this song', 5),
+('4', 'Juliana', 'rap', 'the rapper is really talented', 5),
+('2', 'David', 'R&B', 'too emotional and slow', 1),
+('4', 'Mr. Mingo', 'rap', 'Too much cursing but i like it', 3),
+('2', 'Alison', 'R&B','Speaks to me are a women', 4),
+('3', 'Hannah', 'R&B', 'I felt this song!', 4),
+('5', 'Gabi', 'rap', '50 Cent is the best Rapper!', 5);
