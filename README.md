@@ -1,7 +1,7 @@
 # Tuner Full Stack Application
 
 Let's make our own music playlist app!
-
+FrontEnd https://github.com/9-1-pursuit/tuner-frontend/pull/4
 ![](https://media4.giphy.com/media/4T7zBzdeNEtjThYDWn/giphy.gif?cid=790b76114ee03ef7f860492a9083d77f86191a7bf340002c&rid=giphy.gif&ct=g)
 
 ## Multiple Session Lab/Activity
